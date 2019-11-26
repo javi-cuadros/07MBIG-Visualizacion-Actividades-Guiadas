@@ -2,5 +2,7 @@
   "name": "js-t1yrmg",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "d3plus": "^1.9.8"
+  }
 }
